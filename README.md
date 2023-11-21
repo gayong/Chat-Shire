@@ -302,7 +302,7 @@
 </details>
 
 <details>
-<summary>back-end</summary>
+<summary>BackEnd</summary>
 
 ```
 📦src
