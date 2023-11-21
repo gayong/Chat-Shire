@@ -1,4 +1,4 @@
-<h1 align="center"> E205 특화 프로젝트 </h1>
+<h1 align="center"> E205 특화 프로젝트 - 우수상 수상작 (1등) </h1>
 
 ## 📝 목차
 
@@ -645,5 +645,3 @@
 ![통계2.gif](README_assets/9437818465b53ac54d54bdc3ff1f00ed6c505b73.gif)
 
 ## 
-
-## 느낀 점
