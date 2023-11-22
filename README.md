@@ -40,7 +40,7 @@
 
 #### <strong>최상익</strong> - FE : API 통신 / 렌더링 개선 / UX/UI
 
-#### <strong>이가영</strong> - FE : API 통신신 / S3 업로드 / UX/UI
+#### <strong>이가영</strong> - FE : API 통신 / S3 업로드 / UX/UI
 
 <a id="item-three"></a> 
 
