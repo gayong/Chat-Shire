@@ -1,5 +1,11 @@
 <h1 align="center"> E205 특화 프로젝트 - 🥇우수상 수상작🥇 (1등) </h1>
 
+ [🎞 UCC 보러가기](https://youtu.be/v5x5W6YQDZU)
+ 
+ [📝 노션 보러가기](https://phrygian-sheet-619.notion.site/SSAFY-PJT_E205-f715c31a3cf5496391f803d81ab34543?pvs=4)
+ 
+</br>
+
 ## 📝 목차
 
 [프로젝트 개요](#item-one)
