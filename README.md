@@ -2,6 +2,7 @@
 
  [🎞 UCC 보러가기](https://youtu.be/v5x5W6YQDZU)  
  [📝 노션 보러가기](https://phrygian-sheet-619.notion.site/SSAFY-PJT_E205-f715c31a3cf5496391f803d81ab34543?pvs=4)
+
 </br>
 
 ## 📝 목차
@@ -15,8 +16,8 @@
 [데이터 베이스 모델링 (ERD)](#item-four)
 
 [서비스 구현 화면](#item-five)
-
-[느낀 점](#item-end)
+ 
+</br>
 
 ## 프로젝트 개요
 
@@ -29,6 +30,9 @@
   - 여러가지 툴을 사용하지 않고 하나의 채팅 서비스로 프로젝트를 원활하게 수행합니다.
   
   - 프로젝트 팀원들의 기여도를 확인하고 프로젝트와 관련된 통계 데이터를 제공합니다.
+    
+</br>
+
 
 # 프로젝트 확인하기
 
@@ -121,10 +125,14 @@
 - Docker
 
 - Jenkins
+ 
+</br>
 
 ## 데이터 베이스 모델링 (ERD)
 
 ![채팅서비스 ERD.png](README_assets/11b88bd657320fae7546e0ca9f18e58a5874e642.png)
+ 
+</br>
 
 ## 프로젝트 구조도
 
@@ -543,6 +551,8 @@
 ```
 
 </details>
+ 
+</br>
 
 ## 서비스 구현 화면
 
@@ -559,6 +569,8 @@
 - 기존 회원 로그인
 
 ![기존회원로그인.gif](README_assets/772cea7ea8b0bd37bde820efa50951a682a09428.gif)
+ 
+</br>
 
 ### 2. 내 정보 확인 및 커스텀
 
@@ -573,12 +585,16 @@
 - 유저 상태 변경
 
 ![상태변경.gif](README_assets/405469d9bf8813004458ccb9b32a9257fce521f8.gif)
+ 
+</br>
 
 ### 3. 메인 페이지에서 프로젝트 생성
 
 ![프로젝트 생성1.gif](README_assets/59eaca9269eadeaf5d800982d8496a6ac599ac54.gif)
 
 ![프로젝트생성2.gif](README_assets/31bca21a12d4ee6ac1e50d4557476e4e2e93ba0f.gif)
+ 
+</br>
 
 ### 4. 채팅창 기능 소개
 
@@ -609,6 +625,8 @@
 - 채팅 > 개인 태스크 생성
 
 ![채팅개인태스크등록.gif](README_assets/c84de0b3f0c960619869b54b1746240252237688.gif)
+ 
+</br>
 
 ### 5. Task
 
@@ -617,6 +635,8 @@
 ![공통태스크등록.gif](README_assets/769a520ff2218ecb621daa5a1c13af0a7c30ac8d.gif)
 
 - 개인 태스크 > 공통 태스크 등록
+ 
+</br>
 
 ### 6. Board
 
@@ -639,6 +659,8 @@
 - 에러 게시판 검색
 
 ![에러 검색.gif](README_assets/1698f97d848ec3c0a5ddf56f3a5795803dd63e79.gif)
+ 
+</br>
 
 ### 7. Analysis
 
